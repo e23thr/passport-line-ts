@@ -1,0 +1,19 @@
+{
+  "name": "passport-line-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Praphan Oranphanlert",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
